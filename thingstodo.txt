@@ -1,0 +1,13 @@
+Create a GUI i raylib
+Create an updating void that writes out amount of cookies the player has
+Create buildings
+Building price calculations
+Create a drawable interface to draw stuff on the screen
+
+
+
+
+
+
+
+Json that stores cookies and buildings and upgrades
