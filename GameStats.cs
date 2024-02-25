@@ -1,6 +1,7 @@
-namespace GameStats;
-
-public class CookieStat
+public class GameStats
 {
-    public int CookieAmount { get; set; }
+    public int MP = 0;
+    public int BaseMPClick = 1;
+    public int MatkortAmount { get; set; }
+    private int MatkortMPS = 1;
 }
